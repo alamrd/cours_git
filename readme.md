@@ -1,2 +1,2 @@
 propos git help --all
-q
+q program
