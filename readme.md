@@ -1,1 +1,2 @@
-propos git 
+propos git help --all
+q
