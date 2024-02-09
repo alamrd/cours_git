@@ -23,3 +23,21 @@ p{
     color:red;
 
 }
+
+.div_container{
+
+    display:flex;
+    margin: 50px;
+}
+
+.div_container .div_descr{
+
+    background-color: beige;
+    margin: 20px;
+}
+
+.div_container .div_info{
+
+    background-color: aquamarine;
+}
+
